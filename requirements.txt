@@ -1,0 +1,10 @@
+fastapi  # Framework web para construir APIs en Python
+uvicorn  # Servidor ASGI para ejecutar FastAPI
+pandas  # Manipulación y análisis de datos
+numpy  # Cálculos numéricos y operaciones con matrices
+prophet  # Modelo de series temporales para predicción de demanda
+pulp  # Optimización matemática y programación lineal
+networkx  # Análisis y modelado de grafos, útil para rutas óptimas
+scikit-learn  # Algoritmos de machine learning para detección de anomalías
+matplotlib  # Visualización de datos en gráficos
+python-dotenv  # Carga de variables de entorno desde archivos .env
